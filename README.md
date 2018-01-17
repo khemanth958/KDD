@@ -1,2 +1,2 @@
 # KDD
-This project is done as a semester project in the Knowledge discovery in Databases course. We have used clustering and topic analysis to discover surprising elements from the health database 
+This project is done as a semester project in the Knowledge discovery in Databases course. We have used clustering and topic analysis to discover surprising elements from a diabetes article database. We extracted top 10 words from each cluster and found out the mutual information between the words extracted from each cluster to common words like diabetes,health e.t.c. We then studied the effects of those words on diabetes whether they increase the effect or decrease 
